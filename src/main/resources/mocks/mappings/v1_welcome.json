@@ -1,0 +1,16 @@
+{
+  "mappings": [
+    {
+      "request": {
+        "urlPathPattern": "/v1/welcome",
+        "method": "GET"
+      },
+      "response": {
+        "status": 200,
+        "bodyFileName": "v1/welcome.json",
+        "headers": {
+        }
+      }
+    }
+  ]
+}
